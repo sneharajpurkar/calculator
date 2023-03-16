@@ -23,6 +23,7 @@ const App = () => {
   }
   return (
     <div className="container">
+      <h2>CALCULATOR</h2>
       <form>
         <input type="text" value={result}/>
       </form>
